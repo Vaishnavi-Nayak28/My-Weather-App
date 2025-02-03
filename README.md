@@ -1,6 +1,6 @@
-# Get Weather Conditions
+# My Weather App
 
-Get Weather Conditions is a simple web application that allows users to check current weather conditions for any city across the globe. This project was my first venture into deploying a web service, and it was an incredibly fun and educational experience!
+My Weather App is a simple web application that allows users to check current weather conditions for any city across the globe. This project was my first venture into deploying a web service, and it was an incredibly fun and educational experience!
 
 ## Live Demo
 [Check out the web app here!](https://my-weather-app-2ha0.onrender.com)
