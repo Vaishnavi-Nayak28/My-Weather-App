@@ -23,4 +23,4 @@ My Weather App is a simple web application that allows users to check current we
 - Developed a responsive front-end using basic HTML and CSS.
 
 ## Conclusion
-This project was a great learning experience and served as a fantastic introduction to web services and API integration. Special thanks to Render.com and OpenWeather.org for their amazing services.
+This project was a great learning experience and served as a fantastic introduction to web services and API integration. Special thanks to Render.com and Openweathermap.org for their amazing services.
